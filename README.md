@@ -35,4 +35,4 @@
 ---
 
 ### 🔗 Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/shann0nf) • [GitHub](https://github.com/shann0nf) • [Personal Website](#) *(coming soon)*  
+[LinkedIn]([https://www.linkedin.com/in/shann0nf]) • [GitHub](https://github.com/shann0nf) • [Personal Website](#) *(coming soon)*  
